@@ -1,0 +1,19 @@
+{
+    "name": "AKTK",
+    "publisher": "Do\u011fukan \u00d6ks\u00fcz",
+    "version": "0.0.1",
+    "version_code": 2,
+    "database": [],
+    "widgets": [],
+    "language": "php",
+    "status": 0,
+    "service": null,
+    "supportedLiman": "1.11.1",
+    "support": "doksuz@havelsan.com.tr",
+    "icon": "fa-solid fa-dragon",
+    "display_name": "Aktk",
+    "require_key": "false",
+    "verification": null,
+    "dependencies": null,
+    "sslPorts": null
+}
